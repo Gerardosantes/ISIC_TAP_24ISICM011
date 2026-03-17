@@ -8,8 +8,8 @@ public class Main extends JFrame {
     
     public Main(){
         
-   setTitle("mi primera ventana-TAP"); 
-   setSize(600,400);
+   setTitle("ventana modificada"); 
+   setSize(900,600);
    setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
    setLocationRelativeTo(null);
    setVisible(true);
